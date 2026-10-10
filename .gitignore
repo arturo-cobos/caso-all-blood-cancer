@@ -1,0 +1,20 @@
+# Datos y pesos: 3.5 GB, fuera del repo (ver README)
+data/
+models/
+outputs/
+
+# Entorno
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secretos
+.env
+.env.*
+
+# Sistema
+.DS_Store
